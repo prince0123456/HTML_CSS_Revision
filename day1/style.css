@@ -1,0 +1,14 @@
+body{
+    box-sizing: border-box;
+}
+.header1{
+    display: flex;
+    justify-content: space-between;
+}
+.about{
+    text-align: center;
+}
+.mainContent{
+    display: flex;
+   justify-content: space-around;
+}
